@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Decentralized Identifier (DID) Virtual Hackathon
 
-You can use the [editor on GitHub](https://github.com/w3c-ccg/did-hackathon-jan-2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### When/where
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The W3C Credentials Community Group is hosting (TODO: are we hosting, or just announcing?) a Virtual Hackathon January 15th-19th. Daily syncups will occur 9am PST / 12pm EST.
 
-### Markdown
+TODO: are we using usual connection info? Or zoom room?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Topics
 
-```markdown
-Syntax highlighted code block
+Projects may include (but are not limited to):
+- DID Methods
+- DID Resolvers
+- Verifiable Claims
 
-# Header 1
-## Header 2
-### Header 3
+During this hackathon, we'll build prototypes, documentation, and more -- so join us if you are interested in DIDs (even if you are not a developer)!
 
-- Bulleted
-- List
+### Previous hackathons
 
-1. Numbered
-2. List
+In a previous hackathon we prototyped the BTCR DID method. See more details:
 
-**Bold** and _Italic_ and `Code` text
+- [BTCR Hackathon](https://github.com/WebOfTrustInfo/btcr-hackathon)
+- [BTCR Playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/)
 
-[Link](url) and ![Image](src)
-```
+### Participants
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Participating companies/organizations include:
+- Blockcerts
+- Blockstream
+- Digital Bazaar
+- Learning Machine
+- ??
 
-### Jekyll Themes
+### Contact/Sign up
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/w3c-ccg/did-hackathon-jan-2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TODO: ccg alias? 
