@@ -1,7 +1,5 @@
 ## Decentralized Identifier (DID) Virtual Hackathon
 
-### When/where
-
 The W3C Credentials Community Group is hosting (TODO: are we hosting, or just announcing?) a Virtual Hackathon January 15th-19th. Daily syncups will occur 9am PST / 12pm EST.
 
 TODO: are we using usual connection info? Or zoom room?
