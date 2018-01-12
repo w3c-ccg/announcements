@@ -2,13 +2,14 @@
 
 The W3C Credentials Community Group is hosting a Virtual Hackathon.
 
-### When and Where
+### When
 
 The Hackathon will occur the week of 15th-19th January on M/W/Th/F at 9am PST/12pm EST
 
 > Note no meeting on Tuesday due to the CCG meeting
 
-Where to find us:
+### Where
+
 - [Hackathon zoom room](https://blockstream.zoom.us/my/christophera) 
 - [IRC](http://irc.w3.org/?channels=ccg)
 - [DID Hackathon Github Repo](https://github.com/w3c-ccg/did-hackathon-2018)
