@@ -1,7 +1,14 @@
 ## Decentralized Identifier (DID) Virtual Hackathon
 
-The W3C Credentials Community Group is hosting a Virtual Hackathon January 15th-19th. Daily syncups will occur M, W, Th, F 9am PST / 12pm EST at: https://blockstream.zoom.us/my/christophera 
+The W3C Credentials Community Group is hosting a Virtual Hackathon.
 
+### When and Where
+The Hackathon will occur the week of 15th-19th January on M/W/Th/F at 9am PST/12pm EST
+
+> Note no meeting on Tuesday due to the CCG meeting
+
+- [Hackathon zoom room](https://blockstream.zoom.us/my/christophera) 
+- [IRC](http://irc.w3.org/?channels=ccg)
 
 ### Topics
 
