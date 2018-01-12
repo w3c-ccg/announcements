@@ -3,12 +3,15 @@
 The W3C Credentials Community Group is hosting a Virtual Hackathon.
 
 ### When and Where
+
 The Hackathon will occur the week of 15th-19th January on M/W/Th/F at 9am PST/12pm EST
 
 > Note no meeting on Tuesday due to the CCG meeting
 
+Where to find us:
 - [Hackathon zoom room](https://blockstream.zoom.us/my/christophera) 
 - [IRC](http://irc.w3.org/?channels=ccg)
+- [DID Hackathon Github Repo](https://github.com/w3c-ccg/did-hackathon-2018)
 
 ### Topics
 
@@ -36,5 +39,5 @@ Participating companies/organizations include:
 
 ### Contact/Sign up
 
-- Email the Credentials Community Group (public-credentials@w3.org) to express your interest. If you're interested in a particular topic or DID method, please mention it.
-- [Ensure you have signed the W3C IPR by joining the CCG](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fcredentials%2Fjoin)
+- Email the [Credentials Community Group](mailto:public-credentials@w3.org) to express your interest. If you're interested in a particular topic or DID method, please mention it.
+- Ensure you have signed the W3C IPR by [joining the CCG](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fcredentials%2Fjoin)
