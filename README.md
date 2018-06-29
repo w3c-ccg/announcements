@@ -10,7 +10,8 @@ The Hackathon will occur the week of 16th-20th January on M/W/Th/F at 9am PDT/12
 
 ### Where
 
-- [Hackathon zoom room](https://blockstream.zoom.us/my/christophera) 
+- [Hackathon zoom room](https://zoom.us/j/890479983?pwd=RkNQWGVaY2lkdVVtSVNRWElmZzFzQT09)
+  - password: BTCR
 - [IRC](http://irc.w3.org/?channels=ccg)
 - [DID Hackathon Github Repo](https://github.com/w3c-ccg/did-hackathon-2018)
 
