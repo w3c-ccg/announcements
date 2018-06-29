@@ -48,7 +48,7 @@ Participating companies/organizations include:
 
 
 ------
-------
+
 
 ## Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018
 
