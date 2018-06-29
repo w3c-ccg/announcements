@@ -46,6 +46,8 @@ Participating companies/organizations include:
 - Email the [Credentials Community Group](mailto:public-credentials@w3.org) to express your interest. If you're interested in a particular topic or DID method, please mention it.
 - Ensure you have signed the W3C IPR by [joining the CCG](https://www.w3.org/community/wp-login.php?redirect_to=%2Fcommunity%2Fcredentials%2Fjoin)
 
+
+------
 ------
 
 ## Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018
