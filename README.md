@@ -1,6 +1,6 @@
 ## BTCR Virtual Hackathon Summer 2018
 
-The W3C Credentials Community Group is hosting a Virtual Hackathon.
+The W3C Credentials Community Group is hosting a Virtual Hackathon focusing on BTCR and Verifiable Credentials.
 
 ### When
 
