@@ -1,7 +1,7 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
-* BTCR Virtual Hackathon July 16-20 2018
-* Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018
+* [BTCR Virtual Hackathon July 16-20 2018](#btcr-virtual-hackathon-july-16-20-2018)
+* [Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018](#decentralized-identifier-did-virtual-hackathon-january-15-19-2018)
 
 ------
 
