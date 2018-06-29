@@ -17,8 +17,10 @@ The Hackathon will occur the week of 16th-20th January on M/W/Th/F at 9am PDT/12
 ### Topics
 
 Projects may include (but are not limited to):
-- DID Methods
-- DID Resolvers
+- BTCR libraries (generation, updating, resolution)
+- Drafting BTCR Method Specification
+- BTCR Samples and Documentation
+- Other DID methods
 - Verifiable Claims
 
 During this hackathon, we'll build prototypes, documentation, and more -- so join us if you are interested in DIDs (even if you are not a developer)!
