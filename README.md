@@ -4,9 +4,9 @@ The W3C Credentials Community Group is hosting a Virtual Hackathon.
 
 ### When
 
-The Hackathon will occur the week of 16th-20th January on M/W/Th/F at 9am PST/12pm EST
+The Hackathon will occur the week of 16th-20th January on M/W/Th/F at 9am PDT/12pm EDT; 10am PDT/1pm EDT
 
-> Note no meeting on Tuesday due to the CCG meeting
+> Note start time of 10am PDT/1pm EDT on Tuesday due to the CCG meeting
 
 ### Where
 
