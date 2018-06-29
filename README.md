@@ -1,10 +1,10 @@
-## BTCR Virtual Hackathon Summer 2018
+## BTCR Virtual Hackathon July 16-20 2018
 
 The W3C Credentials Community Group is hosting a Virtual Hackathon focusing on BTCR and Verifiable Credentials.
 
 ### When
 
-The Hackathon will occur the week of 16th-20th January on M/W/Th/F at 9am PDT/12pm EDT; 10am PDT/1pm EDT
+The Hackathon will occur the week of 16th-20th July on M/W/Th/F at 9am PDT/12pm EDT; 10am PDT/1pm EDT
 
 > Note start time of 10am PDT/1pm EDT on Tuesday due to the CCG meeting
 
@@ -32,6 +32,7 @@ In a previous hackathon we prototyped the BTCR DID method. See more details:
 
 - [BTCR Hackathon](https://github.com/WebOfTrustInfo/btcr-hackathon)
 - [BTCR Playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/)
+- [Visualization of how BTCR works](https://www.icloud.com/keynote/0Bcwqiyw6RGvMZgDyFt-prI_g#BTCR)
 
 ### Participants
 
@@ -47,7 +48,7 @@ Participating companies/organizations include:
 
 ------
 
-## Decentralized Identifier (DID) Virtual Hackathon Winter 2018
+## Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018
 
 The W3C Credentials Community Group is hosting a Virtual Hackathon.
 
