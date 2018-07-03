@@ -47,6 +47,7 @@ Participating companies/organizations include:
 - Blockcerts
 - Digital Bazaar
 - Learning Machine
+- Danube Tech
 
 ### Contact/Sign up
 
