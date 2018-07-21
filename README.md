@@ -1,7 +1,37 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
+* [Decentralized Web Summit July 31 - August 2 2018](#decentralized-web-summit-july-31---august-2-2018)
 * [BTCR Virtual Hackathon July 16-20 2018](#btcr-virtual-hackathon-july-16-20-2018)
 * [Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018](#decentralized-identifier-did-virtual-hackathon-january-15-19-2018)
+
+------
+
+## Decentralized Web Summit July 31 - August 2 2018
+
+### When
+
+July 31 - August 2 2018
+
+### Where
+
+- San Francisco, The Mint and the Internet Archive
+- [Decentralized Web Summit](https://decentralizedweb.net/)
+
+### Topics
+
+Many topics related to the decentralized web, including several session related to decentralized identity:
+- July 31: [Science Fair](https://decentralizedwebsummit2018.sched.com/event/FMJT/)
+- August 1: [Talk: Introduction to Self-Sovereign Identity](https://decentralizedwebsummit2018.sched.com/event/FeNS/)
+- August 1: [Panel: Decentralized Identity](https://decentralizedwebsummit2018.sched.com/event/FfSW/)
+- August 1: [Workshop: Introduction to Decentralized Identity Technologies](https://decentralizedwebsummit2018.sched.com/event/FfRM/)
+
+### Participants
+
+Several people from the CCG and other communities will be present.
+
+### Contact/Sign up
+
+- Sign up [here](https://decentralizedweb.net/)
 
 ------
 
