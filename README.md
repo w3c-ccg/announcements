@@ -1,8 +1,32 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
+* [Sovrin Foundation Trust Framework WG F2F August 27 - 28 2018 _FYI_](#sovrin-foundation-trust-framework-wg-f2f-august-27---28-2018-_FYI_)
 * [Decentralized Web Summit July 31 - August 2 2018](#decentralized-web-summit-july-31---august-2-2018)
 * [BTCR Virtual Hackathon July 16-20 2018](#btcr-virtual-hackathon-july-16-20-2018)
 * [Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018](#decentralized-identifier-did-virtual-hackathon-january-15-19-2018)
+
+------
+
+## Sovrin Foundation Trust Framework WG F2F August 27 - 28 2018 _FYI_
+
+> Event that might be of interest to the ccg - it happens in Helsinki the Monday and Tuesday prior to the MyData conference.
+
+### When
+
+Monday & Tuesday, August 27 - 28 2018
+
+### Where
+
+[Hilton Helsinki Strand](http://www3.hilton.com/en/hotels/finland/hilton-helsinki-strand-HELHIHI/index.html)
+, Helsinki, Finland
+
+### Topics
+
+- Sovrin Trust Framework Work Session (this meeting can be joined in person or virtually)
+
+### Contact
+
+- Drummond Reed _(this info was sent informally to a Sovrin WG mailing list)_
 
 ------
 
@@ -100,7 +124,7 @@ The Hackathon will occur the week of 15th-19th January on M/W/Th/F at 9am PST/12
 
 ### Where
 
-- [Hackathon zoom room](https://blockstream.zoom.us/my/christophera) 
+- [Hackathon zoom room](https://blockstream.zoom.us/my/christophera)
 - [IRC](http://irc.w3.org/?channels=ccg)
 - [DID Hackathon Github Repo](https://github.com/w3c-ccg/did-hackathon-2018)
 
