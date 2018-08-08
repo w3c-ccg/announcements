@@ -1,7 +1,7 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
 * [Sovrin Foundation Trust Framework WG F2F August 27 - 28 2018 _FYI_](#sovrin-foundation-trust-framework-wg-f2f-august-27---28-2018-_FYI_)
-* [Learn to Scribe and Publish Minutes](#learn)
+* [Learn to Scribe and Publish Minutes](#learn-to-scribe-and-publish-minutes-august-17-2018-12-1pm-pdt)
 * [Decentralized Web Summit July 31 - August 2 2018](#decentralized-web-summit-july-31---august-2-2018)
 * [BTCR Virtual Hackathon July 16-20 2018](#btcr-virtual-hackathon-july-16-20-2018)
 * [Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018](#decentralized-identifier-did-virtual-hackathon-january-15-19-2018)
