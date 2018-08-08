@@ -57,7 +57,9 @@ https://www.timeanddate.com/worldclock/fixedtime.html?msg=W3C+Credentials+Commun
 
 - public-credentials@w3.org
 
+
 ------
+
 
 ## Decentralized Web Summit July 31 - August 2 2018
 
@@ -86,7 +88,9 @@ Several people from the CCG and other communities will be present.
 
 - Sign up [here](https://decentralizedweb.net/)
 
+
 ------
+
 
 ## BTCR Virtual Hackathon July 16-20 2018
 
