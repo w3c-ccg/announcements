@@ -6,7 +6,9 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 * [BTCR Virtual Hackathon July 16-20 2018](#btcr-virtual-hackathon-july-16-20-2018)
 * [Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018](#decentralized-identifier-did-virtual-hackathon-january-15-19-2018)
 
+
 ------
+
 
 ## Sovrin Foundation Trust Framework WG F2F August 27 - 28 2018 _FYI_
 
@@ -29,7 +31,9 @@ Monday & Tuesday, August 27 - 28 2018
 
 - Drummond Reed _(this info was sent informally to a Sovrin WG mailing list)_
 
+
 ------
+
 
 ## Learn to Scribe and Publish Minutes August 17 2018 12-1pm PDT
 
