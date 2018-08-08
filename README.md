@@ -1,6 +1,7 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
 * [Sovrin Foundation Trust Framework WG F2F August 27 - 28 2018 _FYI_](#sovrin-foundation-trust-framework-wg-f2f-august-27---28-2018-_FYI_)
+* [Learn to Scribe and Publish Minutes](#learn)
 * [Decentralized Web Summit July 31 - August 2 2018](#decentralized-web-summit-july-31---august-2-2018)
 * [BTCR Virtual Hackathon July 16-20 2018](#btcr-virtual-hackathon-july-16-20-2018)
 * [Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018](#decentralized-identifier-did-virtual-hackathon-january-15-19-2018)
@@ -27,6 +28,30 @@ Monday & Tuesday, August 27 - 28 2018
 ### Contact
 
 - Drummond Reed _(this info was sent informally to a Sovrin WG mailing list)_
+
+------
+
+## Learn to Scribe and Publish Minutes August 17 2018 12-1pm PDT
+
+### When
+
+Friday August 17 2018 12-1pm PDT
+
+https://www.timeanddate.com/worldclock/fixedtime.html?msg=W3C+Credentials+Community+Group+Scribe+%2F+Minute+Training&iso=20180817T12&p1=3921&ah=1
+
+### Where
+
+- IRC: http://irc.w3.org/?channels=ccg
+- Video/Audio: link coming soon
+
+### Topics
+
+- How to scribe
+- How to publish minutes
+
+### Contact
+
+- public-credentials@w3.org
 
 ------
 
