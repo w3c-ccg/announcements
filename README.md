@@ -1,5 +1,6 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
+* [Learn to Scribe and Publish Minutes September 21 2018 12-1pm PDT](#learn-to-scribe-and-publish-minutes-september-21-2018-12-1pm-pdt)
 * [Sovrin Foundation Trust Framework WG F2F August 27 - 28 2018 _FYI_](#sovrin-foundation-trust-framework-wg-f2f-august-27---28-2018-_FYI_)
 * [Learn to Scribe and Publish Minutes August 17 2018](#learn-to-scribe-and-publish-minutes-august-17-2018-12-1pm-pdt)
 * [Decentralized Web Summit July 31 - August 2 2018](#decentralized-web-summit-july-31---august-2-2018)
@@ -13,6 +14,7 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 Friday September 21 2018 12-1pm PDT
 
+Add to calendar: 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=YWdyanZlOGgyazc1ZzRodmxrcTA5ZTRlNXMga2ltQGxlYXJuaW5nbWFjaGluZS5jb20&amp;tmsrc=kim%40learningmachine.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 ### Where
