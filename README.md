@@ -7,6 +7,28 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 * [Decentralized Identifier (DID) Virtual Hackathon January 15-19 2018](#decentralized-identifier-did-virtual-hackathon-january-15-19-2018)
 
 
+## Learn to Scribe and Publish Minutes September 21 2018 12-1pm PDT
+
+### When
+
+Friday September 21 2018 12-1pm PDT
+
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=YWdyanZlOGgyazc1ZzRodmxrcTA5ZTRlNXMga2ltQGxlYXJuaW5nbWFjaGluZS5jb20&amp;tmsrc=kim%40learningmachine.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+
+### Where
+
+We are using the CCG IRC channel and Zoom instead of the normal dial-in number so the session can be recorded
+
+- IRC: http://irc.w3.org/?channels=ccg
+- Video/Audio: 
+    - Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/723802124
+    - iPhone one-tap: US: +16468769923,,723802124# or +16699006833,,723802124# 
+- Telephone:
+    - Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 876 9923 or +1 669 900 6833 or +1 408 638 0968 
+    - Meeting ID: 723 802 124
+    - International numbers available: https://zoom.us/u/iEqJ6wDT
+
 ------
 
 
