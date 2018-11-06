@@ -20,4 +20,4 @@ Save the date - February 27 - March 1, 2019. Location TBD
 
 ## Internet Identity Workshop April 30 - May 2nd, 2019
 
-IIW is April 30-May 2: https://www.internetidentityworkshop.com/
+IIW is April 30-May 2: [https://www.internetidentityworkshop.com/](https://www.internetidentityworkshop.com/)
