@@ -1,10 +1,9 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
-## (Ongoing) Weekly dedicated DID calls on Thursdays
+## Weekly dedicated DID calls on Thursdays
 
 - Zoom room: [https://zoom.us/j/7077077007](https://zoom.us/j/7077077007)
-- Every Thursday
-- Time 1-2PM PT / 20:00-21:00 UTC
+- Date/Time: Thursdays 1-2PM PT / 20:00-21:00 UTC
 
 ## CCG Call Agenda - May 14
 - DID WG Charter Issue review
