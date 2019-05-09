@@ -13,7 +13,7 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 ## CCG Call Agenda - May 21
 - [Connection Information](https://w3c-ccg.github.io)
-- DID Spec Editors report out (cont'd)
+- TBD
 - Currently planned agenda; may be subject to change
 
 ## CCG Call Agenda - May 28
