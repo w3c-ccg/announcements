@@ -8,7 +8,6 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 ## CCG Call Agenda - May 14
 - [Connection Information](https://w3c-ccg.github.io)
-- DID WG Charter Issue review
 - DID Spec Editors report out
 - Currently planned agenda; may be subject to change
 
