@@ -28,4 +28,3 @@ RebootingWebOfTrust IX is in Prague, September 3-6th [https://www.WebOfTrust.inf
 
 - Will contain a DID workshop
 - https://mydata2019.org/
-RebootingWebOfTrust IX is in Prague, September 3-6th [https://www.WebOfTrust.info](https://www.WebOfTrust.info)
