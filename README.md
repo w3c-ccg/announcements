@@ -20,6 +20,10 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 - DWeb Camp is a four-day retreat for dreamers and builders. For those who want to create a Decentralized Web.
 - https://dwebcamp.org/
 
+## Pre-RWoT Meetup, Vienna September 1, 2019
+
+- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262359964/
+
 ## RebootingWebOfTrust IX, Prague September 3 - 6, 2019
 
 RebootingWebOfTrust IX is in Prague, September 3-6th [https://www.WebOfTrust.info](https://www.WebOfTrust.info)
