@@ -26,7 +26,9 @@ IEEE [Call for papers](https://www.comsoc.org/publications/magazines/ieee-commun
 
 ## RebootingWebOfTrust IX, Prague September 3 - 6, 2019
 
-RebootingWebOfTrust IX is in Prague, September 3-6th [https://www.WebOfTrust.info](https://www.WebOfTrust.info)
+RebootingWebOfTrust IX is in Prague, September 3-6th. [Get tickets on Event Brite](http://rwot9.eventbrite.com).
+
+[https://www.WebOfTrust.info](https://www.WebOfTrust.info)
 
 ## TPAC 2019 Fukuoka, Japan, September 16-20 2019
 
