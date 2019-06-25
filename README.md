@@ -1,10 +1,8 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
-## IEEE Call for Papers
+## IEEE Call for Papers, Deadline for Drafts 
 
-IEEE Call for papers “The Dawn of the Internet Identity Layer and the
-      Role of Decentralized Identity”
-      https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and
+IEEE [Call for papers](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and) “The Dawn of the Internet Identity Layer and the Role of Decentralized Identity”
 
 ## Weekly dedicated DID calls on Thursdays
 
@@ -30,9 +28,9 @@ IEEE Call for papers “The Dawn of the Internet Identity Layer and the
 
 RebootingWebOfTrust IX is in Prague, September 3-6th [https://www.WebOfTrust.info](https://www.WebOfTrust.info)
 
-## TPAC 2019
+## TPAC 2019 Fukuoka, Japan, September 16-20 2019
 
-TPAC 2019 <https://www.w3.org/2019/09/TPAC/> will be 16-20 September 2019 in Fukuoka, Japan.
+[TPAC 2019](https://www.w3.org/2019/09/TPAC/) will be 16-20 September 2019 in Fukuoka, Japan.
 
 ## MyData, Helsinki September 25 - 27, 2019
 
