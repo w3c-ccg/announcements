@@ -34,9 +34,9 @@ RebootingWebOfTrust IX is in Prague, September 3-6th. [Get tickets on Event Brit
 
 [TPAC 2019](https://www.w3.org/2019/09/TPAC/) will be 16-20 September 2019 in Fukuoka, Japan.
 
-## IDNext, The Hague, The Netherlands, September 25 - 26, 2019
+## IDnext, The Hague, The Netherlands, September 25 - 26, 2019
 
-[IDNext](https://www.idnext.eu/en/events/annual-idnext-2019/) will be 25 & 26 September 2019 in The Hague, The Netherlands.
+[IDnext](https://www.idnext.eu/en/events/annual-idnext-2019/) will be 25 & 26 September 2019 in The Hague, The Netherlands.
 
 ## MyData, Helsinki September 25 - 27, 2019
 
