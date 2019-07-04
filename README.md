@@ -4,21 +4,15 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 IEEE [Call for papers](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and) “The Dawn of the Internet Identity Layer and the Role of Decentralized Identity”
 
-## Weekly dedicated DID calls on Thursdays
-
-- Zoom room: [https://zoom.us/j/7077077007](https://zoom.us/j/7077077007)
-- Date/Time: Thursdays 1-2:30PM PT / 20:00-21:30 UTC
-- Meeting page: https://docs.google.com/document/d/1qYBaXQMUoB86Alquu7WBtWOxsS8SMhp1fioYKEGCabE/
-
-## Identiverse, Washington DC June 25 - 28, 2019
-
-- Includes a "Masterclass on DID Registration and Resolution" on June 26, 2019
-- https://identiverse.com/
-
 ## DWeb Camp, California July 18 - 21, 2019
 
 - DWeb Camp is a four-day retreat for dreamers and builders. For those who want to create a Decentralized Web.
 - https://dwebcamp.org/
+
+## BTCR Hackathon! August 5-9, 2019
+
+- Remote hackathon August 5-9, 2019
+- Details here: [https://weboftrustinfo.github.io/btcr-hackathon-2019/]
 
 ## Pre-RWoT Meetup, Vienna September 1, 2019
 
@@ -43,5 +37,6 @@ RebootingWebOfTrust IX is in Prague, September 3-6th. [Get tickets on Event Brit
 - Will contain a DID workshop
 - [https://mydata2019.org/](https://mydata2019.org/)
 
+## Internet Identity Workshop October 1-3, 2019
 
-
+- [Register here](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxix-29-2019b-tickets-61880910469)
