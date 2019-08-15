@@ -36,20 +36,3 @@ ActivityPub F2F is in Prague, September 7-8th. More information at [ActivityPub 
 
 - [Register here](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxix-29-2019b-tickets-61880910469)
 
-
-====
-
-
-## IEEE Call for Papers, Deadline for Drafts 
-
-IEEE [Call for papers](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and) “The Dawn of the Internet Identity Layer and the Role of Decentralized Identity”
-
-## DWeb Camp, California July 18 - 21, 2019
-
-- DWeb Camp is a four-day retreat for dreamers and builders. For those who want to create a Decentralized Web.
-- https://dwebcamp.org/
-
-## BTCR Hackathon! August 5-9, 2019
-
-- Remote hackathon August 5-9, 2019
-- Details here: [https://weboftrustinfo.github.io/btcr-hackathon-2019/]
