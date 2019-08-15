@@ -4,6 +4,10 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 The Vienna Digital Identity Meetup is happening before RWOT in Vienna on September 1, 2019. [Get tickets on Event Brite](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262359964/).
 
+## No CCG Meeting September 3, 2019
+
+There is no CCG meeting September 3, 2019 due to conflict with RebootingWebOfTrust IX.
+
 ## RebootingWebOfTrust IX, Prague September 3 - 6, 2019
 
 RebootingWebOfTrust IX is in Prague, September 3-6th. [Get tickets on Event Brite](http://rwot9.eventbrite.com).
