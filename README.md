@@ -1,5 +1,12 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
+## DID WG Charter
+
+As per https://lists.w3.org/Archives/Public/public-new-work/2019Aug/0000.html please have your organization send an mails in support of a new W3C DID Working Group: mailto:public-new-work@w3.org
+
+If your organization is a member of the W3C, please have your AC vote yes on the DID WG proposal at: [https://www.w3.org/2002/09/wbs/33280/did-wg-2019/](https://www.w3.org/2002/09/wbs/33280/did-wg-2019/)
+
+
 ## Pre-RWoT Meetup, Vienna September 1, 2019
 
 The Vienna Digital Identity Meetup is happening before RWOT in Vienna on September 1, 2019. [Get tickets on Event Brite](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262359964/).
