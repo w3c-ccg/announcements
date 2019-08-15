@@ -1,28 +1,23 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io).
 
-## IEEE Call for Papers, Deadline for Drafts 
-
-IEEE [Call for papers](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and) “The Dawn of the Internet Identity Layer and the Role of Decentralized Identity”
-
-## DWeb Camp, California July 18 - 21, 2019
-
-- DWeb Camp is a four-day retreat for dreamers and builders. For those who want to create a Decentralized Web.
-- https://dwebcamp.org/
-
-## BTCR Hackathon! August 5-9, 2019
-
-- Remote hackathon August 5-9, 2019
-- Details here: [https://weboftrustinfo.github.io/btcr-hackathon-2019/]
-
 ## Pre-RWoT Meetup, Vienna September 1, 2019
 
-- https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262359964/
+The Vienna Digital Identity Meetup is happening before RWOT in Vienna on September 1, 2019. [Get tickets on Event Brite](https://www.meetup.com/Vienna-Digital-Identity-Meetup/events/262359964/).
 
 ## RebootingWebOfTrust IX, Prague September 3 - 6, 2019
 
 RebootingWebOfTrust IX is in Prague, September 3-6th. [Get tickets on Event Brite](http://rwot9.eventbrite.com).
 
 [https://www.WebOfTrust.info](https://www.WebOfTrust.info)
+
+## Holochain Hackathon, Prague - September 6-8th
+
+Holochain Hackathon is in Prague, September 6-8th. [Get information on Event Brite](https://www.eventbrite.com/e/holochain-hackathon-in-prague-tickets-68086108383).
+
+## ActivityPub F2F, Prague — September 7-8th
+
+ActivityPub F2F is in Prague, September 7-8th. More information at [ActivityPub Conference 2019](https://dustycloud.org/blog/activitypub-conf-2019/).
+
 
 ## TPAC 2019 Fukuoka, Japan, September 16-20 2019
 
@@ -40,3 +35,21 @@ RebootingWebOfTrust IX is in Prague, September 3-6th. [Get tickets on Event Brit
 ## Internet Identity Workshop October 1-3, 2019
 
 - [Register here](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxix-29-2019b-tickets-61880910469)
+
+
+====
+
+
+## IEEE Call for Papers, Deadline for Drafts 
+
+IEEE [Call for papers](https://www.comsoc.org/publications/magazines/ieee-communications-standards-magazine/cfp/dawn-internet-identity-layer-and) “The Dawn of the Internet Identity Layer and the Role of Decentralized Identity”
+
+## DWeb Camp, California July 18 - 21, 2019
+
+- DWeb Camp is a four-day retreat for dreamers and builders. For those who want to create a Decentralized Web.
+- https://dwebcamp.org/
+
+## BTCR Hackathon! August 5-9, 2019
+
+- Remote hackathon August 5-9, 2019
+- Details here: [https://weboftrustinfo.github.io/btcr-hackathon-2019/]
