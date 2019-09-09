@@ -10,6 +10,10 @@ If your organization is a member of the W3C, please have your AC vote yes on the
 
 [TPAC 2019](https://www.w3.org/2019/09/TPAC/) will be 16-20 September 2019 in Fukuoka, Japan.
 
+## No CCG Meeting September 17, 2019
+
+There will be no CCG meeting September 17, 2019 due to TPAC
+
 ## IDnext, The Hague, The Netherlands, September 25 - 26, 2019
 
 [IDnext](https://www.idnext.eu/en/events/annual-idnext-2019/) will be 25 & 26 September 2019 in The Hague, The Netherlands.
