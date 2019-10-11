@@ -12,3 +12,14 @@ Dedicated DID calls on Thursdays. Details:
 
 - Must be a W3C member or invited expert
 - Weekly calls Tuesday 8AM PT / 15:00 UTC (right before the weekly CCG call)
+
+## Closing out action items and work items, plus planning for next year
+
+- We're closing out action items and work items! Action needed by end of December. 
+- Send proposals for next year's work item using one of the two methods:
+  - Fill out a [new work item template](https://github.com/w3c-ccg/community/issues/new?assignees=ChristopherA%2C+jandrieu%2C+kimdhamilton&labels=proposed+work+items&template=ccg-new-work-item-template.md&title=%5BPROPOSED+WORK+ITEM%5D)
+  - Send an email with details to the CCG alias (public-credentials@w3.org) 
+  
+## Scribe assignments will happen before Tuesday meetings  
+
+Calls for scribes will happen before the Tuesday calls going forward. Let's save time and awkward pauses!
