@@ -9,11 +9,6 @@ Dedicated DID Resolution calls on Thursdays. Details:
 - Zoom room: [https://zoom.us/j/7077077007](https://zoom.us/j/7077077007)
 - Time 1-2:00PM PT / 20:00-21:00 UTC
 
-## DID Working Group Launched!
-
-- Must be a W3C member or invited expert
-- Weekly calls Tuesday 8AM PT / 15:00 UTC (right before the weekly CCG call)
-
 ## Closing out action items and work items, plus planning for next year
 
 - We're closing out action items and work items! Action needed by end of December. 
