@@ -7,7 +7,7 @@ Dedicated DID Resolution calls on Thursdays. Details:
 
 - Meeting page: https://docs.google.com/document/d/1qYBaXQMUoB86Alquu7WBtWOxsS8SMhp1fioYKEGCabE/
 - Zoom room: [https://zoom.us/j/7077077007](https://zoom.us/j/7077077007)
-- Time 1-2:00PM PT / 20:00-21:00 UTC
+- Time 1-2:00PM PT
 
 ## Closing out action items and work items, plus planning for next year
 
