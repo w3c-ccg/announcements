@@ -4,15 +4,8 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 | Date | Topic |
 |-----|--------|
-| 12 November 2019 | Storage and Agents separation of concerns, led by Adrian Gropper |
-| 19 November 2019 | No meeting (conflict for chairs and many attendees) |
-| 26 November 2019 | No meeting (US holiday) |
-| 3 December 2019 | Dissolution of the DVCG |
-| 10 December 2019 | tbd (DCC or Charter) |
-| 17 December 2019 | tbd (DCC or Charter) |
-| 24 December 2019 | No meeting (holiday) |
-| 31 December 2019 | No meeting (holiday) |
-
+| 29 January - 31 January | W3C-DIDWG Face-to-Face (Amsterdam) |
+| 16 March - 20 March | Rebooting the Web of Trust #RWOT10 (Buenos Aires) |
 
 ## DID Resolution calls on Thursdays
 
