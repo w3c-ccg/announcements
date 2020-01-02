@@ -4,7 +4,7 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 | Date | Topic |
 |-----|--------|
-| 29 January - 31 January | W3C-DIDWG Face-to-Face (Amsterdam) |
+| 29 January - 31 January | W3C DID WG Face-to-Face (Amsterdam) |
 | 16 March - 20 March | Rebooting the Web of Trust #RWOT10 (Buenos Aires) |
 
 ## DID Resolution calls on Thursdays
