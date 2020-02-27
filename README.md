@@ -10,6 +10,15 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 | 8 June - 11 June | [Identiverse (Denver, CO)](http://www.cvent.com/d/fhqnf3/4W) |
 
 ## Recurring Meetings
+
+### Verifiable Credentials for Education on Mondays
+
+Dedicated DID Resolution calls on Thursdays. Details:
+
+- Meeting page: https://github.com/w3c-ccg/vc-ed/blob/gh-pages/README.md
+- Time 8-9AM PT
+
+
 ### DID Resolution calls on Thursdays
 
 Dedicated DID Resolution calls on Thursdays. Details:
