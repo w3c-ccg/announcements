@@ -4,7 +4,6 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 | Date | Topic |
 |-----|--------|
-| 29 January - 31 January | [W3C DID WG Face-to-Face (Amsterdam)](https://lists.w3.org/Archives/Public/public-did-wg/2019Nov/0018.html) |
 | 16 March - 20 March | Rebooting the Web of Trust #RWOT10 (Buenos Aires) |
 | 5 April - 8 April | [KNOW Identity (Las Vegas)](https://www.knowidentity.com/2020-conference/) |
 | 28 April - 30 April | [Internet Identity Workshop (Mountain View, CA)](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxx-30-2020a-tickets-79016788341) |
