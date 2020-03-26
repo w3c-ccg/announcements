@@ -1,6 +1,6 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io)
 
-## Upcoming Meetings
+## Upcoming Events
 
 | Date | Topic |
 |-----|--------|
@@ -8,7 +8,17 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 | 28 April - 30 April | [Internet Identity Workshop (Mountain View, CA)](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxx-30-2020a-tickets-79016788341) **GOING VIRTUAL** |
 | 8 June - 11 June | [Identiverse (Denver, CO)](http://www.cvent.com/d/fhqnf3/4W)  **GOING TO VIRTUAL SERIES**|
 
-## Recurring Meetings
+## Recurring CCG Meetings
+
+### Weekly CCG Call
+
+Weekly commmunity group call on Tuesdays: Detais:
+
+- Meeting Page: https://w3c-ccg.github.io/
+- Archives: https://github.com/w3c-ccg/meetings
+- Connection Information: https://w3c-ccg.github.io/connecting.html
+- Time: 12pm ET, 9am PDT, 4pm GMT, 5pm CET
+
 
 ### Verifiable Credentials for Education on Mondays
 
