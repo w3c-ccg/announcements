@@ -6,6 +6,7 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 |-----|--------|
 | 8 June - 11 June | [Identiverse (Denver, CO)](http://www.cvent.com/d/fhqnf3/4W)  **GOING TO VIRTUAL SERIES**|
 
+
 ## Recurring CCG Meetings
 
 ### Weekly CCG Call
