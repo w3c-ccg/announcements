@@ -29,7 +29,7 @@ Dedicated DID Resolution calls on Thursdays. Details:
 
 ### DID Resolution calls on Thursdays
 
-Dedicated DID Resolution calls on Thursdays. Details:
+Dedicated DID Resolution calls on Mondays. Details:
 
 - Meeting page: https://docs.google.com/document/d/1qYBaXQMUoB86Alquu7WBtWOxsS8SMhp1fioYKEGCabE/
 - Zoom room: [https://zoom.us/j/7077077007](https://zoom.us/j/7077077007)
