@@ -21,7 +21,7 @@ Weekly commmunity group call on Tuesdays: Detais:
 
 ### Verifiable Credentials for Education on Mondays
 
-Dedicated DID Resolution calls on Thursdays. Details:
+Dedicated Verifiable Credentials for Education calls on Mondays. Details:
 
 - Meeting page: https://github.com/w3c-ccg/vc-ed/blob/gh-pages/README.md
 - Time 8-9AM PT
