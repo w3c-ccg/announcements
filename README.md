@@ -19,7 +19,7 @@ Weekly commmunity group call on Tuesdays: Detais:
 - Time: 12pm ET, 9am PDT, 4pm GMT, 5pm CET
 
 
-### Verifiable Credentials for Education on Mondays
+### Verifiable Credentials for Education on Mondays 8am PT
 
 Dedicated Verifiable Credentials for Education calls on Mondays. Details:
 
@@ -27,7 +27,7 @@ Dedicated Verifiable Credentials for Education calls on Mondays. Details:
 - Time 8-9AM PT
 
 
-### DID Resolution calls on Thursdays
+### DID Resolution calls on Mondays 1pm PT
 
 Dedicated DID Resolution calls on Mondays. Details:
 
