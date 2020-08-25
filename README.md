@@ -4,7 +4,7 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 | Date | Topic |
 |-----|--------|
-| 16 June - 6 August | [Identiverse (Denver, CO)](http://www.cvent.com/d/fhqnf3/4W)  **GOING TO VIRTUAL SERIES** |
+| 20 October - 22 October | [Internet Identity Workshop (Virtual)](https://internetidentityworkshop.com/)  |
 
 
 ## Recurring CCG Meetings
