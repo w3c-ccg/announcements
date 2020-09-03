@@ -19,11 +19,11 @@ Weekly commmunity group call on Tuesdays: Detais:
 - Time: 12pm ET, 9am PDT, 4pm GMT, 5pm CET
 
 
-### Verifiable Credentials for Education on Mondays 8am PT
+### Verifiable Credentials for Education on Alternating Mondays 8am PT
 
-Dedicated Verifiable Credentials for Education calls on Mondays. Details:
+Verifiable Credentials for Education task force calls on alternating mondays. See details:
 
-- Meeting page: https://github.com/w3c-ccg/vc-ed/blob/gh-pages/README.md
+- Meeting page: https://w3c-ccg.github.io/vc-ed/
 - Time 8-9AM PT
 
 
