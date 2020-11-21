@@ -21,7 +21,7 @@ Weekly commmunity group call on Tuesdays: Detais:
 
 ### Verifiable Credentials for Education on Alternating Mondays 8am PT
 
-Verifiable Credentials for Education task force calls on alternating mondays. See details:
+Verifiable Credentials for Education task force calls on Mondays. See details:
 
 - Meeting page: https://w3c-ccg.github.io/vc-ed/
 - Time 8-9AM PT
@@ -35,12 +35,13 @@ Dedicated DID Resolution calls on Mondays. Details:
 - Zoom room: [https://zoom.us/j/7077077007](https://zoom.us/j/7077077007)
 - Time 1-2:00PM PT / 4-5:00PM ET
 
-### Secure Data Storage calls on Thursdays 1pm PT / 4pm ET
+### Confidential Storage calls on Thursdays 1-2pm PT / 4-5pm ET
 
-Dedicated Secure Data Storage calls on Thursdays. Details:
+Dedicated Confidential Storage calls on Thursdays. Details:
 
 - Form (to get calendar invite and sign release): [https://forms.gle/HGGiFtgASUqWRqTLA](https://forms.gle/HGGiFtgASUqWRqTLA)
-- Zoom room: [https://zoom.us/j/884468271](https://zoom.us/j/884468271)
+- Zoom room: [https://zoom.us/j/884468271](https://zoom.us/j/884468271) 
+    - pass code is 20 three times
 - Time 1-2:00PM PT / 4-5:00PM ET
 
 
