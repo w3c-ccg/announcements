@@ -4,7 +4,7 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 | Date | Topic |
 |-----|--------|
-| 20 October - 22 October | [Internet Identity Workshop (Virtual)](https://internetidentityworkshop.com/)  |
+| TBD | [TBD](https://w3c-ccg.github.io/)  |
 
 
 ## Recurring CCG Meetings
