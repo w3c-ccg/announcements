@@ -4,7 +4,8 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 | Date | Topic |
 |-----|--------|
-| TBD | [TBD](https://w3c-ccg.github.io/)  |
+| 12/22 | [No CCG Meeting](https://w3c-ccg.github.io/)  |
+| 12/29 | [No CCG Meeting](https://w3c-ccg.github.io/)  |
 
 
 ## Recurring CCG Meetings
