@@ -1,13 +1,14 @@
 Announcements and events associated with the [W3C Credentials CG](https://w3c-ccg.github.io)
 
-## Upcoming Events
+## Upcoming Events & Meetings
 
 | Date | Topic |
 |-----|--------|
-| 12/22 | [No CCG Meeting](https://w3c-ccg.github.io/)  |
-| 12/29 | [No CCG Meeting](https://w3c-ccg.github.io/)  |
-| 1/6   | [First CCG Meeting in 2021 (After Holiday Break)](https://w3c-ccg.github.io/)  |
+| 1/13   | [zCaps/OCAPS](https://w3c-ccg.github.io/)  |
+| 1/20 | [No CCG Meeting due to U.S. Inauguration](https://w3c-ccg.github.io/)  |
 | 2/{1,3,5} | [The Thoughtful Biometrics Workshop](https://thoughtfulbiometrics.org/)  |
+| 1/27   | [TBD](https://w3c-ccg.github.io/)  |
+| 2/3   | [TBD](https://w3c-ccg.github.io/)  |
 
 ## Recurring CCG Meetings
 
