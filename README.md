@@ -7,8 +7,8 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 | 1/13   | [zCaps/OCAPS](https://w3c-ccg.github.io/)  |
 | 1/20 | [No CCG Meeting due to U.S. Inauguration](https://w3c-ccg.github.io/)  |
 | 2/{1,3,5} | [The Thoughtful Biometrics Workshop](https://thoughtfulbiometrics.org/)  |
-| 1/27   | [TBD](https://w3c-ccg.github.io/)  |
-| 2/3   | [TBD](https://w3c-ccg.github.io/)  |
+| 1/27   | [Verifiable Requests](https://w3c-ccg.github.io/)  |
+| 2/3   | [Task Force Report Outs](https://w3c-ccg.github.io/)  |
 
 ## Recurring CCG Meetings
 
