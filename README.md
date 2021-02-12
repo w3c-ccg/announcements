@@ -4,9 +4,10 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 | Date | Topic |
 |-----|--------|
-| 2/{1,3,5} | [The Thoughtful Biometrics Workshop](https://thoughtfulbiometrics.org/)  |
+
 | 1/27   | [Verifiable Requests](https://w3c-ccg.github.io/)  |
 | 2/3   | [Task Force Report Outs/TBD](https://w3c-ccg.github.io/)  |
+| 3/{8,10,12} | [The Thoughtful Biometrics Workshop](https://thoughtfulbiometrics.org/)  |
 
 ## Recurring CCG Meetings
 
