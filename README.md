@@ -5,7 +5,7 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 | Date | Topic |
 |-----|--------|
 
-| date   | [TBD](https://w3c-ccg.github.io/)  |
+| Date   | [TBD](https://w3c-ccg.github.io/)  |
 
 
 ## Recurring CCG Meetings
