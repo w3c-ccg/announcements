@@ -20,7 +20,7 @@ Weekly commmunity group call on Tuesdays: Detais:
 - Time: Noon–1 pm ET (conversion to other timezones varies with the calendar; check yours [here](https://www.timeanddate.com/worldclock/converter.html))
 
 
-### Verifiable Credentials for Education on Alternating Mondays 8am PT
+### Verifiable Credentials for Education on Mondays 8am PT
 
 Verifiable Credentials for Education task force calls on Mondays. See details:
 
