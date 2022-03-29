@@ -28,6 +28,24 @@ Verifiable Credentials for Education task force calls on Mondays. See details:
 - Time 8–9 am PT (conversion to other timezones varies with the calendar; check yours [here](https://www.timeanddate.com/worldclock/converter.html))
 
 
+### VC-API calls on Tuesdays 4pm ET / 1pm PT
+
+Verifiable Credentials API - how we exchange credentials over REST
+
+- Meeting link: [https://meet.w3c-ccg.org/vcapi](https://meet.w3c-ccg.org/vcapi)
+- Repos: [VC-API](https://github.com/w3c-ccg/vc-api/) 
+- Time 4 pm ET (conversion to other timezones varies with the calendar; check yours [here](https://www.timeanddate.com/worldclock/converter.html))
+
+
+### Traceability calls on Tuesdays 1:30pm ET / 10:30am PT
+
+Supply Chain Traceability with Verifiable Credentials and all sorts of relates stuff
+
+- Meeting link: [https://meet.w3c-ccg.org/traceability](https://meet.w3c-ccg.org/traceability)
+- Repos: [Traceability Interop](https://github.com/w3c-ccg/traceability-interop/) and [Traceability Vocabulary](https://github.com/w3c-ccg/traceability-vocab/)
+- Time 1:30 pm ET (conversion to other timezones varies with the calendar; check yours [here](https://www.timeanddate.com/worldclock/converter.html))
+
+
 ### DID Resolution calls on Mondays 1pm PT / 4pm ET
 
 Dedicated DID Resolution calls on Mondays. Details:
