@@ -34,13 +34,13 @@ Verifiable Credentials API - how we exchange credentials over REST
 - Time 3 pm ET (conversion to other timezones varies with the calendar; check yours [here](https://www.timeanddate.com/worldclock/converter.html))
 
 
-### Traceability calls on Tuesdays 1:30pm ET / 10:30am PT
+### Traceability calls on Thursdays 3:00pm ET / 6:00pm PT  
 
 Supply Chain Traceability with Verifiable Credentials and all sorts of relates stuff
 
 - Meeting link: [https://meet.w3c-ccg.org/traceability](https://meet.w3c-ccg.org/traceability)
 - Repos: [Traceability Interop](https://github.com/w3c-ccg/traceability-interop/) and [Traceability Vocabulary](https://github.com/w3c-ccg/traceability-vocab/)
-- Time 1:30 pm ET (conversion to other timezones varies with the calendar; check yours [here](https://www.timeanddate.com/worldclock/converter.html))
+- Time Thursdays 3:00pm ET / 6:00pm PT (conversion to other timezones varies with the calendar; check yours [here](https://www.timeanddate.com/worldclock/converter.html))
 
 
 ### DID Resolution calls on Mondays 1pm PT / 4pm ET
